@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Adarsh Singh<br>👨‍🔬Software Engineer sharing about my journey and learnings in tech<br>🤖Building AI-native products that solve real-world problems in fintech, education, and productivity. Specialized in LLMs, GenAI apps, and scalable full-stack systems.<br>🏢Founder @ [VectorSolutions](www.vectorsolutions.in) & [Aplus](www.getaplus.co)
+Hi, I'm Adarsh Singh<br>👨‍🔬Software Engineer sharing about my journey and learnings in tech<br>🤖Building AI-native products that solve real-world problems in fintech, education, and productivity. Specialized in LLMs, GenAI apps, and scalable full-stack systems.<br>🏢Founder @ [DigimindSolutions](www.digimindsolutions.com) & [Eternis](www.eternis.space)
 
 
 ## 🌐 Socials:
