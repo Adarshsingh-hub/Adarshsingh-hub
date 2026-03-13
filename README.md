@@ -13,8 +13,6 @@ Hi, I'm Adarsh Singh<br>👨‍🔬Software Engineer sharing about my journey an
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshsingh-hub\&theme=tokyonight\&hide_border=true)
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshsingh-hub\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshsingh-hub\&theme=tokyonight\&hide_border=true\&layout=compact)
 
 
